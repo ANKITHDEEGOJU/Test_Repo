@@ -1,1 +1,2 @@
 I am testing ut the fetch feature via this command.
+I am trying to understand git and implement few commands. 
